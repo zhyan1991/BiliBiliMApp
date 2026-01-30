@@ -139,3 +139,7 @@ BiliBiliMApp/BiliBiliMD/TargetApp
 
 感谢所有为 iOS 逆向生态做出贡献的开发者  
 如果本项目对你有帮助，欢迎 Star ⭐️ 支持
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TouchFriend/BiliBiliMApp&type=date&legend=top-left)](https://www.star-history.com/#TouchFriend/BiliBiliMApp&type=date&legend=top-left)
